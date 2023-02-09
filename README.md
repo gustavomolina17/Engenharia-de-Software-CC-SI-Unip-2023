@@ -19,11 +19,11 @@
 - [x]  Aula 03 - 22/02/23
     - Recesso (Cinzas) 
 - [x]  Aula 04 - 01/03/23 
-    - 
+    - Processo de Software
 - [x]  Aula 05 - 08/03/23
-    - 
+    - Processo de software
 - [x]  Aula 06 - 15/03/23
-    - 
+    - Engenharia de Requisitos de Software
 - [x] Aula 07 - 22/03/23
     - 
 - [x]  Aula 08 - 29/03/23
