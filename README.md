@@ -12,9 +12,9 @@
 
 ## Cronograma - Aulas 
 
-- [x]  Aula 01
+- [x]  Aula 01 - 08/02/23
     - Apresentação da Disciplina
-- [x]  Aula 02
+- [x]  Aula 02 - 15/02/23
     - Introdução a Engenharia de Software
 - [x]  Aula 03 - 22/02/23
     - Recesso (Cinzas) 
