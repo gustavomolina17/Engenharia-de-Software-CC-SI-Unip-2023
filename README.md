@@ -25,7 +25,6 @@
 - [x]  Aula 06 - 15/03/23
     - Engenharia de Requisitos de Software
 - [x] Aula 07 - 22/03/23
-    - 
 - [x]  Aula 08 - 29/03/23
     - Semana de Prova - NP1
 - [x]  Aula 09 - 05/04/23
@@ -50,6 +49,10 @@
 - [x]  Aula 21- 28/06
     - Semana de Revisão de Notas e Faltas
     
-   
+## Avaliação NP1 
+Todas as atividade devem ser feitas em grupos com no mínimo 3 e no máximo 6 integrantes.
+- Lista de Exercícios (valor:2,0) - Entrega via teams.
+- Documento de Requisitos (valor:3,0) - Entrega via teams.
+- Documentação Completa de Reqisitos (Valor:5,0) - Entrega em sala de aula no dia da prova.
 
 ## APS
