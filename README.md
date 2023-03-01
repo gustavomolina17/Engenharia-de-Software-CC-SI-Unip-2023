@@ -55,4 +55,3 @@ Todas as atividade devem ser feitas em grupos com no mínimo 3 e no máximo 6 in
 - Documento de Requisitos (valor:3,0) - Entrega 29/03/2023 (até as 23:59) via teams.
 - Documentação Completa de Reqisitos (Valor:5,0) - Deverá ser entregue impresso pelo grupo no dia da NP1. Todos devem estar presentes para assinar a lista de presença na prova.
 
-## APS
