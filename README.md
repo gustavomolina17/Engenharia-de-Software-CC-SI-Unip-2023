@@ -51,8 +51,8 @@
     
 ## Avaliação NP1 
 Todas as atividade devem ser feitas em grupos com no mínimo 3 e no máximo 6 integrantes.
-- Lista de Exercícios (valor:2,0) - Entrega via teams.
-- Documento de Requisitos (valor:3,0) - Entrega via teams.
+- Lista de Exercícios (valor:2,0) - Entrega 22/03/2023 (até as 23:59) via teams.
+- Documento de Requisitos (valor:3,0) Entrega 29/03/2023 (até as 23:59) via teams.
 - Documentação Completa de Reqisitos (Valor:5,0) - Entrega em sala de aula no dia da prova.
 
 ## APS
