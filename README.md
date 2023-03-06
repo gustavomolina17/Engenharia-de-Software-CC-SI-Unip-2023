@@ -23,8 +23,9 @@
 - [x]  Aula 05 - 08/03/23
     - Processo de software
 - [x]  Aula 06 - 15/03/23
-    - Engenharia de Requisitos de Software
+    - Engenharia de Requisitos de Software I
 - [x] Aula 07 - 22/03/23
+    - Engenharia de Requisitos de Software II
 - [x]  Aula 08 - 29/03/23
     - Semana de Prova - NP1
 - [x]  Aula 09 - 05/04/23
