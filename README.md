@@ -31,7 +31,9 @@
 - [x]  Aula 08 - 05/04/23
     - Semana de Prova - NP1
 - [x]  Aula 09 - 12/04
+    - UML: Diagrama de Casos de Uso
 - [x]  Aula 10 - 19/04
+    - UML: Diagrama de Classes + APS
 - [x]  Aula 11- 26/04
 - [x]  Aula 12- 03/05
 - [x]  Aula 13- 10/05
