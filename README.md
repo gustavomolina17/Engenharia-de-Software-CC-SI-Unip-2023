@@ -35,8 +35,11 @@
 - [x]  Aula 10 - 19/04
     - UML: Diagrama de Classes + APS
 - [x]  Aula 11- 26/04
+    - Teste de Software I
 - [x]  Aula 12- 03/05
+    - Teste de Software II
 - [x]  Aula 13- 10/05
+    - Métodos Agéis
 - [x]  Aula 14- 17/05
     - Semana de Prova - NP2
 - [x]  Aula 15- 24/05
