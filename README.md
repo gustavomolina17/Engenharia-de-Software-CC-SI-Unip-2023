@@ -35,7 +35,7 @@
 - [x]  Aula 10 - 19/04
     - Feedback dos trabalhos (NP1)
 - [x]  Aula 11- 26/04
-    -  - UML: Diagrama de Classes + APS
+    -  UML: Diagrama de Classes + APS
 - [x]  Aula 12- 03/05
     - Teste de Software I
 - [x]  Aula 13- 10/05
