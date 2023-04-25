@@ -33,13 +33,13 @@
 - [x]  Aula 09 - 12/04
     - UML: Diagrama de Casos de Uso
 - [x]  Aula 10 - 19/04
-    - UML: Diagrama de Classes + APS
+    - Feedback dos trabalhos (NP1)
 - [x]  Aula 11- 26/04
-    - Teste de Software I
+    -  - UML: Diagrama de Classes + APS
 - [x]  Aula 12- 03/05
-    - Teste de Software II
+    - Teste de Software I
 - [x]  Aula 13- 10/05
-    - Métodos Agéis
+    - Teste de Software II
 - [x]  Aula 14- 17/05
     - Semana de Prova - NP2
 - [x]  Aula 15- 24/05
@@ -59,5 +59,10 @@
 Todas as atividade devem ser feitas em grupos com no mínimo 3 e no máximo 6 integrantes.
 - Lista de Exercícios (valor:2,0) - Entrega 22/03/2023 (até as 23:59) via teams.
 - Documento de Requisitos (valor:3,0) - Entrega 29/03/2023 (até as 23:59) via teams.
-- Documentação Completa de Reqisitos (Valor:5,0) - Deverá ser entregue impresso pelo grupo no dia 29/03. Todos devem estar presentes para assinar a lista de presença na prova.
+- Documentação Completa de Requisitos (Valor:5,0) - Deverá ser entregue impresso pelo grupo no dia 29/03. Todos devem estar presentes para assinar a lista de presença na prova.
 
+## Avaliação NP2
+- Protótipos da Interface do site / app (valor:2,0) - Entrega 03/05/2023 (até as 23:30) via teams.
+- Diagrama de Casos de Uso | Diagrama de Classes (valor:2,0) - Entrega 10/05/2023 (até as 23:30) via teams.
+- Correção do Documento de requisitos versão completa [Entregue na NP1] (valor: 1,0) - Entrega 14/05/2023 (até as 23:59) via teams.
+- Documentação Completa de requisitos (valor:5,0) - Entrega 17/05 no teams e EM SALA DE AULA (IMPRESSO). Todos devem estar presentes para assinar a lista de presença na prova.
